@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jaideep N</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Science+Specialist" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG">
 </p>
 
 ### 👀 I’m interested in coding
