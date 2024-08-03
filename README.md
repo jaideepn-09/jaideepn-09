@@ -6,7 +6,6 @@
 
 ### 👀 I’m interested in coding
 ### 🌱 I’m currently learning Computer Science Engineering with a specialization in Data Science
-### 💞️ I’m looking to collaborate on Full-Stack Development
 ### 📫 How to reach me: [jaideepn3590@duck.com](mailto:jaideepn3590@duck.com)
 
 ---
