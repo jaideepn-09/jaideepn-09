@@ -1,11 +1,17 @@
 <h1 align="center">👋 Hi, I’m Jaideep N</h1>
 
 <p align="center">
+  <a href="https://jaideep.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-jaideep.web.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=30&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG">
 </p>
 
-### 👀 I’m interested in coding
-### 🌱 I’m currently learning Computer Science Engineering with a specialization in Data Science
+### 👀 I'm interested in coding
+### 🌱 I'm currently learning Computer Science Engineering with a specialization in Data Science
 ### 📫 How to reach me: [jaideepn3590@duck.com](mailto:jaideepn3590@duck.com)
 
 ---
