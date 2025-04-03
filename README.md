@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jaideep.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-jaideep.web.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-jaideepn.vercel.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
