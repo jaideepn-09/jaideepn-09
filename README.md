@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jaideep N</h1>
 
 <p align="center">
-  <a href="https://jaideep.web.app" target="_blank">
+  <a href="https://jaideepn.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-jaideepn.vercel.app-4B32C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
